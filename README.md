@@ -32,18 +32,10 @@
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamzaHindawy&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Current Focus
 
 * Mastering **Cybersecurity foundations** and hands-on practice
-* Building projects with **Laravel**, **Node.js**, and **TypeScript**
+* Building projects with **Node.js**, and **TypeScript**, **React**
 * Improving problem‑solving and system design skills
 
 ---
@@ -51,11 +43,8 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/hamza-hindawy" target="_blank">
+  <a align="center" href="https://www.linkedin.com/in/hamza-mohamed-hindawy-3bb044274/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:hamza@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
