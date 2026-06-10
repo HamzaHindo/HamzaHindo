@@ -9,34 +9,24 @@
 ## 🚀 About Me
 
 * 🎓 **Computer Science & AI student** at **Cairo University**
-* 🔐 Passionate about **Cybersecurity**
-* 🌐 Interested in **Web Development**
-* 💡 Always learning, building, and breaking things (ethically 😄)
+* 🔐 Passionate about **Building systems that scale**
+* 🌐 Interested in **Software engineering**
 
 ---
 
 ## 🛠️ Tech & Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,ts,js,nodejs,react,html,css,linux,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaHindo&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHindo&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,nodejs,linux,git,github,cpp" />
 </p>
 
 ---
 
 ## 🧠 Current Focus
 
-* Mastering **Cybersecurity foundations** and hands-on practice
-* Building projects with **Node.js**, and **TypeScript**, **React**
+* Mastering **Backend and system design foundations**
 * Improving problem‑solving and system design skills
+* Learning more technologies **(Java, Spring boot)** to be able to build more reliable systems 
 
 ---
 
